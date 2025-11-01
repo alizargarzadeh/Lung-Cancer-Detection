@@ -40,3 +40,5 @@ The `pre_processing.py` module includes several sophisticated image filters and 
 ### 1. Clone the Repository
 
 ```bash
+git clone <https://github.com/alizargarzadeh/Lung-Cancer-Detection/>
+cd lung-cancer-detection
